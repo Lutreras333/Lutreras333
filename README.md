@@ -14,8 +14,8 @@
 
 #### [WWCARGO — Billing Automation Platform →](https://github.com/Lutreras333/wwcargo-billing-platform)
 
-A production system that automates the entire billing cycle of a family
-air-cargo business — it detects each flight from a logistics API within minutes
+A production system that automates the entire billing cycle of an air-cargo
+logistics company — it detects each flight from a logistics API within minutes
 of takeoff, reconstructs shipment weights the platform stored in a distorted
 form (**verified exact on 470 / 470 shipments**), keeps the company's Google
 Sheets books with pixel-exact formatting, and creates + sends QuickBooks
