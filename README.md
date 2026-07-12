@@ -1,4 +1,4 @@
-## Lucas Utreras
+## Lucas Utreras Acevedo
 
 Computer Engineering student who likes building software that actually runs a business.
 
